@@ -1,0 +1,1 @@
+# SQL-Server---error-code-1639-Exit-code-Decimal--2068052377-FIX-installing-fail.
