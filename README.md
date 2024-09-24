@@ -68,3 +68,5 @@ You can use `WMIC` to check and remove installed SQL Server entries:
 After following all the steps above, **restart your computer** to complete the uninstallation process and clean up your system.
 
 Once all steps are complete, you can try reinstalling SQL Server if needed.
+
+P/s: You can use Revo Uninstaller Pro Portable to remove SQL server, that's might be better than the control panel of the window.
